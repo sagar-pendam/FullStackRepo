@@ -13,6 +13,7 @@ public class B {
 	{
 		String[] items = {"I Phone 18 Pro","Philips hair dryer"};
 		System.out.println("Bombhaat");
+		
 		return items.toString();
 	}
 }
